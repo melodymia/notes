@@ -1,0 +1,27 @@
+#Data Structure#
+1. Linked list
+2. Binary tree
+3. Trie(字典树)
+4. Stack
+5. Queue
+6. Array
+7. Hashtable
+8. Graph
+
+
+#Algorithms#
+1. Breadth First Search(BFS,广度优先搜索)
+2. Depth First Search(DFS,深度优先搜索)
+3. Binary Search
+4. Merge Sort(归并排序)
+5. Quick Sort(快排)
+6. Tree Insert/Search
+
+
+#Concepts#
+1. Bitwise Operation(位运算)
+2. Singleton Pattern(单例模式)
+3. Factory Pattern(工厂模式)
+4. Memory, Stack & Heap(内存,堆&栈)
+5. Recursion(递归)
+6. Time Complexity(时间复杂度)
